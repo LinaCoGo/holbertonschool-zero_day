@@ -1,0 +1,1 @@
+This project is 0x01. Emacs to learn how to use Emacs
