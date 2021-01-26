@@ -1,1 +1,1 @@
-This is the projectfor Vagrant
+This is the project for Vagrant
